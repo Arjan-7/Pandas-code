@@ -1,3 +1,3 @@
-Hi, this is my begineer basic pandas code.
+Hi, this is my beginner basic pandas code.
 <br>
 -Arjan Gautam
